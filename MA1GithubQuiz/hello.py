@@ -1,4 +1,5 @@
 import sys
-print("Hello, ",end='')
-print(sys.argv[1],end='')
+response = input ('What is your name?: ')
+print("Hello, ", end='')
+print(response,end='')
 print("!")
