@@ -1,4 +1,4 @@
-#### **Revant's A+ Quiz**
+# **Revant's A+ Quiz**
 
 ![alt](http://www.gabzreveur.com/themes/gabz/images/A+.png)
 
