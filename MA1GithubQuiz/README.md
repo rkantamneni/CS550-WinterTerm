@@ -10,9 +10,9 @@ What is your favorite dessert?
 ![alt](http://www.gabzreveur.com/themes/gabz/images/A+.png)
 
 - Do you have any pets? 
-	-No
+	- No
 - How many programming languages do you know? 
-	-Python
-	-HTML
+	- Python
+	- HTML
 - What is your favorite dessert? 
-	-Chocolate Ice Cream
+	- Chocolate Ice Cream
