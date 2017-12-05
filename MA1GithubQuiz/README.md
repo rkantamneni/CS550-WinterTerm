@@ -7,7 +7,7 @@ What is your favorite dessert?
 
 ### Revant's A+ Quiz
 ![Image of A+]
-(http://static1.squarespace.com/static/5509e96de4b0555ed6d0b922/t/55106a49e4b03d1f4852ebc0/1511810795798/)
+(http://www.gabzreveur.com/themes/gabz/images/A+.png)
 
 * Do you have any pets? No
 * How many programming languages do you know? 3
