@@ -6,8 +6,8 @@ How many programming languages do you know?
 What is your favorite dessert?
 
 ### Revant's A+ Quiz
-![Image of A+]
-(http://www.gabzreveur.com/themes/gabz/images/A+.png)
+
+![alt](http://www.gabzreveur.com/themes/gabz/images/A+.png)
 
 * Do you have any pets? No
 * How many programming languages do you know? 3
